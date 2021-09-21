@@ -6,4 +6,4 @@ Player will restart level if player collides with enemy or falls into water at b
 Assets were obtained online for project use
 Tiled software was used to create level design
 
-Simple physics (gravity) was implemented
+Simple physics (gravity) were implemented
