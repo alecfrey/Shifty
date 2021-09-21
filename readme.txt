@@ -1,3 +1,6 @@
+Shifty Game
+-----------------------------------
+
 Simple 2D Game made Spring 2021
 
 2D platformer with collision detection for platforms and enemies
