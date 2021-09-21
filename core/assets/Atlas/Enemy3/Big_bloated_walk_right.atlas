@@ -1,0 +1,48 @@
+
+Big_bloated_walk_right.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Big_bloated_walk1
+  rotate: false
+  xy: 2, 2
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+Big_bloated_walk2
+  rotate: false
+  xy: 313, 2
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+Big_bloated_walk3
+  rotate: false
+  xy: 85, 2
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+Big_bloated_walk4
+  rotate: false
+  xy: 161, 2
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+Big_bloated_walk5
+  rotate: false
+  xy: 237, 2
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+Big_bloated_walk6
+  rotate: false
+  xy: 388, 2
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1

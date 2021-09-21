@@ -1,0 +1,48 @@
+
+Woodcutter_deathLeft.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Woodcutter_death1
+  rotate: false
+  xy: 266, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_death2
+  rotate: false
+  xy: 216, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_death3
+  rotate: false
+  xy: 60, 2
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_death4
+  rotate: false
+  xy: 112, 2
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_death5
+  rotate: false
+  xy: 164, 2
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_death6
+  rotate: false
+  xy: 2, 2
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1

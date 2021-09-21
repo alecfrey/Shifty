@@ -1,0 +1,34 @@
+
+Centipede_walk_left.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Centipede_walk1
+  rotate: false
+  xy: 2, 2
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+Centipede_walk2
+  rotate: false
+  xy: 86, 2
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+Centipede_walk3
+  rotate: false
+  xy: 169, 2
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+Centipede_walk4
+  rotate: false
+  xy: 242, 2
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Woodcutter_jumpLeft.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Woodcutter_jump1
+  rotate: false
+  xy: 266, 2
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_jump2
+  rotate: false
+  xy: 61, 2
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_jump3
+  rotate: false
+  xy: 113, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_jump4
+  rotate: false
+  xy: 164, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_jump5
+  rotate: false
+  xy: 215, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_jump6
+  rotate: false
+  xy: 2, 2
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1

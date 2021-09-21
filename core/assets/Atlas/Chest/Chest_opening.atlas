@@ -1,0 +1,34 @@
+
+Chest_opening.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Chest1
+  rotate: false
+  xy: 109, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Chest2
+  rotate: false
+  xy: 39, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Chest3
+  rotate: false
+  xy: 2, 2
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Chest4
+  rotate: false
+  xy: 74, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1

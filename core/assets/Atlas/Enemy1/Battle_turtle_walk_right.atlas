@@ -1,0 +1,34 @@
+
+Battle_turtle_walk_right.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Battle_turtle_walk1
+  rotate: false
+  xy: 2, 2
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+Battle_turtle_walk2
+  rotate: false
+  xy: 161, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+Battle_turtle_walk3
+  rotate: false
+  xy: 85, 2
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+Battle_turtle_walk4
+  rotate: false
+  xy: 235, 2
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1

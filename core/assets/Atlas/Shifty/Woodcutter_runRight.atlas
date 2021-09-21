@@ -1,0 +1,48 @@
+
+Woodcutter_Animations.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Woodcutter_run1
+  rotate: false
+  xy: 161, 3
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Woodcutter_run2
+  rotate: false
+  xy: 61, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_run3
+  rotate: false
+  xy: 207, 2
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_run4
+  rotate: false
+  xy: 111, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_run5
+  rotate: false
+  xy: 252, 2
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Woodcutter_run6
+  rotate: false
+  xy: 2, 3
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
