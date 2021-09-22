@@ -2,22 +2,6 @@ package com.mygdx.shifty;
 
 import com.badlogic.gdx.Game;
 
-<<<<<<< HEAD
-import com.badlogic.gdx.graphics.g2d.*;
-import com.badlogic.gdx.audio.Music;
-import com.badlogic.gdx.math.Rectangle;
-import com.badlogic.gdx.math.Vector3;
-
-/**
- * The ShiftyGame class creates and renders the backbone of the game.
- * The player texture is created and rendered, along with the game map, and background music.
- * @author Alec Frey, Tyler Atkinson, Nathan Cook
- *
- */
-import com.badlogic.gdx.Game;
-
-=======
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 public class ShiftyGame extends Game {
 	private AppSettings preferences;
 	private LoadingScreen loadingScreen;
@@ -48,17 +32,10 @@ public class ShiftyGame extends Game {
 				if(mainScreen == null) mainScreen = new MainScreen(this);
 					this.setScreen(mainScreen);
 					break;
-<<<<<<< HEAD
-		}	
-	}
-	/**
-	 * Creates loading screen and preferences on startup
-=======
 				}	
 			}
 	/**
 	 * creates loading screen and preferences on startup
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	 */
 	@Override
 	public void create() {
@@ -69,15 +46,10 @@ public class ShiftyGame extends Game {
 	}
 	
 	/**
-<<<<<<< HEAD
-	 * Called by other classes to get preferences from AppSettings
-=======
 	 * called by other classes to get preferences from AppSettings
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	 * @return
 	 */
 	public AppSettings getPreferences() {
 		return this.preferences;
 	}
-
 }
