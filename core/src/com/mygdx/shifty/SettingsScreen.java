@@ -1,3 +1,4 @@
+
 package com.mygdx.shifty;
 
 import com.badlogic.gdx.Gdx;
@@ -21,11 +22,7 @@ public class SettingsScreen implements Screen{
 	private Label soundOnOffLabel;
 	
 	/**
-<<<<<<< HEAD
-	 * Constructs setting screen, used by Shifty class
-=======
 	 * makes setting screen, used by Shifty class
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	 * @param screen
 	 */
 	public SettingsScreen(ShiftyGame screen) {
@@ -98,13 +95,6 @@ public class SettingsScreen implements Screen{
 		table.add(soundSlider);
 		table.row();
 		table.row();
-<<<<<<< HEAD
-		table.add(backButton).colspan(2);		
-	}
-	
-	/**
-	 * Renders stage for the screen to show
-=======
 		table.add(backButton).colspan(2);
 		
 			// TODO Auto-generated method stub
@@ -112,7 +102,6 @@ public class SettingsScreen implements Screen{
 	}
 	/**
 	 * renders stage for the screen to show
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	 */
 	@Override
 	public void render(float delta) {
@@ -122,52 +111,31 @@ public class SettingsScreen implements Screen{
 		
 		//tell stage to do actions and draw itself
 		stage.act(Math.min(Gdx.graphics.getDeltaTime(), 1/30f));
-<<<<<<< HEAD
-		stage.draw();		
-=======
 		stage.draw();
 		// TODO Auto-generated method stub
 		
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	}
 
 	@Override
 	public void resize(int width, int height) {
-<<<<<<< HEAD
-=======
 		// TODO Auto-generated method stub
 		
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	}
 
 	@Override
 	public void pause() {
-<<<<<<< HEAD
-=======
 		// TODO Auto-generated method stub
 		
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	}
 
 	@Override
 	public void resume() {
-<<<<<<< HEAD
-=======
 		// TODO Auto-generated method stub
 		
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
 	}
 
 	@Override
 	public void hide() {
-<<<<<<< HEAD
-	}
-
-	@Override
-	public void dispose() {		
-	}
-}
-=======
 		// TODO Auto-generated method stub
 		
 	}
@@ -177,6 +145,4 @@ public class SettingsScreen implements Screen{
 		// TODO Auto-generated method stub
 		
 	}
-
 }
->>>>>>> c38133729d121c25fe36687fd48987b5320cd1f1
